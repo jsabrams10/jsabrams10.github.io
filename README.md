@@ -1,15 +1,13 @@
-downing.io
-================================================================================
+All of this code was originally provided by Jason Downing (https://github.com/JasonD94/). I forked his repository, and have customized his code in order to learn more about CSS/HTML and fit my needs. Below is a snippet from his original "README.md":
+-----
 
-Source code for my personal website. MIT Licensed. Contains a copy of my resume, 
-as well as some links to Github. :octocat:
+
 
 Built using:
 --------------------------------------------------------------------------------
 [HTML5](https://developers.google.com/web/)  
 [Bootstrap](http://getbootstrap.com/) for CSS  
 [jQuery](https://jquery.com/) for JS  
-[namecheap](https://www.namecheap.com/) for the awesome domain  
 [GitHub Pages](https://pages.github.com/) for hosting  
 [CloudFlare](https://www.cloudflare.com/) for the SSL cert and fancy green lock :lock:  
 [git](https://git-scm.com/) for source control
