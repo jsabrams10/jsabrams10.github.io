@@ -1,11 +1,8 @@
 /*
     File: index.css
-    Jason Downing
-    Contact: jason@downing.io
-    MIT Licensed - see http://opensource.org/licenses/MIT for details.
-    Anyone may freely use this code. Just don't sue me if it breaks stuff.
-    Created: September 3rd, 2015.
-    Last Updated: Feb 6th, 2018.
+    John Abrams
+    Contact: jsabrams10@gmail.com
+    Last Updated: Jul 23rd, 2019.
 
     This file contains CSS classes / IDs used to override the Creative Bootstrap Theme
 */
@@ -33,7 +30,7 @@
 
 /*  For the GitHub Section link
     These styles make the GitHub Section header appear white all the time,
-    unless hovered on, in which case they turn blue. I like this style better.
+    unless hovered on, in which case they turn orange. I like this style better.
 
     I also decided to use borders instead of underlines since the J in Jason gets cut
     off by an underline, but not by a border (which looks exactly like an underline only
@@ -45,8 +42,8 @@
     https://www.w3schools.com/css/css_link.asp
     https://www.w3schools.com/css/tryit.asp?filename=trycss_link2
 */
-.text-blue {
-  color: blue;
+.text-orange {
+  color: orange;
   border-bottom: 1px solid currentColor;
 }
   /* 6/15/2018: Renamed because Creative Bootstrap ALSO has a text-white class,
@@ -58,8 +55,8 @@
 }
 
 /* Link color when it is unvisited */
-a.text-blue:link  {
-  color: blue;
+a.text-orange:link  {
+  color: orange;
   border-bottom: 1px solid currentColor;
 }
 a.text-white-link:link  {
@@ -68,8 +65,8 @@ a.text-white-link:link  {
 }
 
 /* Link color after being clicked on and visited */
-a.text-blue:visited {
-  color: blue;
+a.text-orange:visited {
+  color: orange;
   border-bottom: 1px solid currentColor;
 }
 a.text-white-link:visited {
@@ -78,20 +75,20 @@ a.text-white-link:visited {
 }
 
 /* Link color while being hovered on */
-a.text-blue:hover {
-  color: blue;
+a.text-orange:hover {
+  color: orange;
   border-bottom: 1px solid currentColor;
   text-decoration: none;
 }
 a.text-white-link:hover {
-  color: blue;
+  color: orange;
   border-bottom: 1px solid currentColor;
   text-decoration: none;
 }
 
 /* Link color the moment it is clicked */
-a.text-blue:active {
-  color: blue;
+a.text-orange:active {
+  color: orange;
   border-bottom: 1px solid currentColor;
 }
 a.text-white-link:active {
@@ -163,7 +160,7 @@ a.text-white-link:active {
 	flex-wrap: wrap;
 }
 
-/* 	Add border to the images on the "Fun Stuff" section 
+/* 	Add border to the images on the "Fun Stuff" section
 		https://www.w3schools.com/csS/css3_images.asp
 */
 .images-border {
