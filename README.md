@@ -16,8 +16,3 @@ Based on the
 [Creative Bootstrap theme](http://startbootstrap.com/template-overviews/creative/)
 from [Start Bootstrap](http://startbootstrap.com/).
 The theme is also MIT Licensed.
-
-View it here: [downing.io](https://downing.io/)
-
-Check out some of my other webpages at 
-[github.com/JasonD94/](https://github.com/JasonD94/)
